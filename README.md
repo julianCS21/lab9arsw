@@ -25,6 +25,14 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
     * Username = scalability_lab
     * SSH publi key = Su llave ssh publica
 
+
+![image](https://user-images.githubusercontent.com/96396177/233812349-232d4635-9a4a-42c4-8598-c1cd488a1a54.png)
+
+![image](https://user-images.githubusercontent.com/96396177/233812356-75ed99aa-bbae-46e2-8653-6a6ebe07be99.png)
+
+![image](https://user-images.githubusercontent.com/96396177/233812358-a4bda399-5c44-482f-a5a9-8e477698677b.png)
+
+
 ![Imágen 1](images/part1/part1-vm-basic-config.png)
 
 2. Para conectarse a la VM use el siguiente comando, donde las `x` las debe remplazar por la IP de su propia VM (Revise la sección "Connect" de la virtual machine creada para tener una guía más detallada).
