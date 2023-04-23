@@ -67,6 +67,11 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 5. Para ejecutar la aplicación puede usar el comando `npm FibinacciApp.js`, sin embargo una vez pierda la conexión ssh la aplicación dejará de funcionar. Para evitar ese compartamiento usaremos *forever*. Ejecute los siguientes comando dentro de la VM.
 
     ` node FibonacciApp.js`
+    
+ ## inicio de la app
+ 
+ ![image](https://user-images.githubusercontent.com/96396177/233854758-5d72796f-d252-4f4d-bc15-966bcec6f93e.png)
+
 
 6. Antes de verificar si el endpoint funciona, en Azure vaya a la sección de *Networking* y cree una *Inbound port rule* tal como se muestra en la imágen. Para verificar que la aplicación funciona, use un browser y user el endpoint `http://xxx.xxx.xxx.xxx:3000/fibonacci/6`. La respuesta debe ser `The answer is 8`.
 
