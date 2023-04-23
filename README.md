@@ -43,8 +43,20 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
     `ssh scalability_lab@xxx.xxx.xxx.xxx`
 
+## conexion a la VM
+
+![image](https://user-images.githubusercontent.com/96396177/233812697-c167e44a-0afd-4cbf-86eb-2d17fdb6ae24.png)
+
+
 3. Instale node, para ello siga la sección *Installing Node.js and npm using NVM* que encontrará en este [enlace](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/).
-4. Para instalar la aplicación adjunta al Laboratorio, suba la carpeta `FibonacciApp` a un repositorio al cual tenga acceso y ejecute estos comandos dentro de la VM:
+
+## instalacion nodejs en la VM
+
+![image](https://user-images.githubusercontent.com/96396177/233812763-25ce33e3-7ae8-44f9-8e2b-9e5616cc8d7f.png)
+
+
+
+5. Para instalar la aplicación adjunta al Laboratorio, suba la carpeta `FibonacciApp` a un repositorio al cual tenga acceso y ejecute estos comandos dentro de la VM:
 
     `git clone <your_repo>`
 
